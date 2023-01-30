@@ -1,0 +1,22 @@
+# venv
+env
+
+#git
+.git/
+
+#Pycharm
+.idea/
+
+#Ipynb
+.ipynb_checkpoints/
+
+#Catboost outcomes
+catboost_info
+
+#files
+*.csv
+*.pptx
+*.png
+*.txt
+!requirements.txt
+
